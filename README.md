@@ -1,11 +1,11 @@
-# simongame.github.io
+# Simon Game
 Simon game project as a Javascript exercise.
 
 Exercise ministrated at Angela Yu's Complete 2023 Web Development Bootcamp.
 
 Game's URL: https://armilanez.github.io/simongame.github.io/
 
-# Simon Game
+# What is it?
 
 ![simon](simon.PNG)
 
