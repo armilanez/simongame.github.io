@@ -5,9 +5,9 @@ Exercise ministrated at Angela Yu's Complete 2023 Web Development Bootcamp.
 
 Game's URL: https://armilanez.github.io/simongame.github.io/
 
-#Simon Game
+# Simon Game
 
-![simon](images/simon.PNG)
+![simon](simon.PNG)
 
 Simon is an electronic game of short-term memory.
 
